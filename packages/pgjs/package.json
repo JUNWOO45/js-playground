@@ -1,0 +1,26 @@
+{
+  "name": "pgjs",
+  "version": "1.0.0",
+  "description": "playground js",
+  "author": "junwoo45 <sinyoorang@gmail.com>",
+  "homepage": "https://github.com/JUNWOO45/js-playground#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUNWOO45/js-playground.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/JUNWOO45/js-playground/issues"
+  }
+}
