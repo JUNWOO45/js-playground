@@ -1,11 +1,3 @@
-'use strict';
-
-module.exports = pgjs;
-
-function pgjs() {
-  // TODO
-}
-
 class MyClass {
   #pField = 'junwoo';
 
@@ -14,4 +6,4 @@ class MyClass {
   }
 }
 
-console.log(new MyClass().getPField());
+export default MyClass;
